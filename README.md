@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 HardCore Oracle SQL/PLSQL Developer :muscle:
 - 🌱 I’m currently learning ML & AI (Extensive Vision AI)
 - 🌱 I'm enhancing my programming skill in pytorch, python, Java(Srping boot,cucumber), Angular & Protractor
 
