@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[comment]: <[![Gaju's github stats](https://github-readme-stats.vercel.app/api?username=Gaju27)](https://github.com/anuraghazra/github-readme-stats)>
+
+[comment]: <![Gaju's github stats](https://github-readme-stats.vercel.app/api?username=Gaju27&show_icons=true)>
+[comment]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaju27)](https://github.com/anuraghazra/github-readme-stats)>
+
+![Gaju's github stats](https://github-readme-stats.vercel.app/api?username=Gaju27&show_icons=true&theme=flag-india)    
