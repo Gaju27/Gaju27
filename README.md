@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 HardCore Oracle SQL/PLSQL Developer :muscle:
+- 🔭 Oracle SQL/PLSQL Developer :muscle:
 - 🌱 I’m currently learning ML & AI (Extensive Vision AI)
 - 🌱 I'm enhancing my programming skill in pytorch, python, Java(Srping boot,cucumber), Angular & Protractor
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gajanana-ganjigatti/)
